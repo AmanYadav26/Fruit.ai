@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* .fruit-card {
+    @apply bg-white shadow-md p-4 rounded-lg cursor-pointer;
+}
+
+.fruit-details {
+    @apply bg-gray-100 shadow-lg p-6 rounded-lg;
+}
+
+.chat-window {
+    @apply bg-white shadow-lg rounded-lg w-full max-w-md mx-auto;
+} */
